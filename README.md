@@ -1,6 +1,6 @@
 
 
-## 📘 README: French Pronunciation Evaluator for Kids
+## French Pronunciation Evaluator for Kids
 
 ### 🎯 Project Overview
 
@@ -26,15 +26,6 @@ It uses a child's **spoken sentence** and **phonetic transcription** to generate
   - 🎯 A helpful tip for each category
   - ⭐ An overall clarity score (1 to 5 stars)
 - Can be adjusted for a more teacher/parent tone or child-directed tone
-
----
-
-### 📂 File Structure
-
-```
-french-pononciation-evalautor.ipynb   # Main notebook for running evaluations
-README.md                             # You're reading it!
-```
 
 ---
 
@@ -97,9 +88,4 @@ This project assumes you're using a language model (like OpenAI’s GPT) to gene
 - Educational app developers
 - Parents teaching French at home
 
----
-
-### 📬 Feedback & Contributions
-
-Contributions or suggestions to improve the tone, evaluation categories, or accuracy are welcome!
 
