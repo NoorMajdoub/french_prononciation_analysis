@@ -2,7 +2,7 @@
 
 ## French Pronunciation Evaluator for Kids
 
-### 🎯 Project Overview
+###  Project Overview
 
 This project is a **French pronunciation evaluator for children**, designed to analyze spoken sentences and provide **friendly, structured feedback** based on:
 1. **Nasal vowels** (e.g., *on*, *an*, *un*)
